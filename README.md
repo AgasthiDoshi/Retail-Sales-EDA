@@ -1,5 +1,5 @@
 # Exploratory Data Analysis (EDA) on Retail Sales Data
-![HOSPITAL MANAGEMENT SYSTEM](https://github.com/AgasthiDoshi/Hospital_Management_Database_SQL_PROJECT/blob/main/logos.png)
+![EDA ON RETAIL SALES DATA](https://github.com/AgasthiDoshi/Retail-Sales-EDA/blob/main/20251219_1330_Data%20Analytics%20Project%20Cover_simple_compose_01kctsxyvsfd4smpspt6j1pt31.png)
 ##  Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a retail sales dataset
 to understand sales trends, customer behavior, and product performance.
