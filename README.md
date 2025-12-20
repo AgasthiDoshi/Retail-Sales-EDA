@@ -56,9 +56,8 @@ data analysis and visualization skills using Python.
 ##  Show Your Support
 If you found this helpful, please ⭐ **star the repository**!
 
- Thank You
-Thank you for checking out my Blinkit Power BI Dashboard project!
-I hope this inspires you to explore how data visualization can turn raw information into actionable insights.
+## Thank You
+Thank you for checking out my OIB-SIP Internship Retail Sales EDA Task-1!
 
 ## Author
 ###### Agasthi Doshi
