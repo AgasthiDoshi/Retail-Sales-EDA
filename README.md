@@ -53,3 +53,18 @@ The dataset contains retail sales information including:
 This project was completed as part of an internship task to demonstrate practical
 data analysis and visualization skills using Python.
 
+##  Show Your Support
+If you found this helpful, please ⭐ **star the repository**!
+
+ Thank You
+Thank you for checking out my Blinkit Power BI Dashboard project!
+I hope this inspires you to explore how data visualization can turn raw information into actionable insights.
+
+## Author
+###### Agasthi Doshi
+###### doshiagasthi@gmail.com
+###### +91-7400345300
+###### LinkedIn www.linkedin.com/in/agasthi-doshi-40b555375
+
+## Thank You. I hope you like this project.
+If you liked the project or found it helpful, do consider sharing your feedback.
